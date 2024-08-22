@@ -1,4 +1,8 @@
-.myStyle{
-    background-color: coral;
-     padding: 16px;
+#text{
+    display: none;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
 }
